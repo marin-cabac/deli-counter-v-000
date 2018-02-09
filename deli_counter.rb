@@ -16,7 +16,7 @@ def take_a_number(katz_deli,om)
     puts "The line is currently: empty"
   else
   puts"Welcome, #{om}. You are number #{katz_deli.size+1} in line."
- 
+
     katz_deli << om
 end
 
