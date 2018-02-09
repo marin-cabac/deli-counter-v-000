@@ -16,5 +16,5 @@ def take_a_number(katz_deli,om)
 line(katz_deli)
     katz_deli << om
 
-  
+
 end
