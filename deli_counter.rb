@@ -13,7 +13,7 @@ def line(arr)
 end
 def take_a_number(katz_deli,om)
   puts"Welcome, #{om}. You are number #{katz_deli.size+1} in line."
-line(katz_deli)
+ 
     katz_deli << om
 
 
